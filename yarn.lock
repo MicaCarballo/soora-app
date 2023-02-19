@@ -1706,6 +1706,11 @@
     prompts "^2.4.0"
     semver "^6.3.0"
 
+"@react-native-community/clipboard@^1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@react-native-community/clipboard/-/clipboard-1.5.1.tgz#32abb3ea2eb91ee3f9c5fb1d32d5783253c9fabe"
+  integrity sha512-AHAmrkLEH5UtPaDiRqoULERHh3oNv7Dgs0bTC0hO5Z2GdNokAMPT5w8ci8aMcRemcwbtdHjxChgtjbeA38GBdA==
+
 "@react-native/assets@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@react-native/assets/-/assets-1.0.0.tgz#c6f9bf63d274bafc8e970628de24986b30a55c8e"
@@ -2973,6 +2978,11 @@ expo-asset@~8.7.0:
     md5-file "^3.2.3"
     path-browserify "^1.0.0"
     url-parse "^1.5.9"
+
+expo-clipboard@~4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/expo-clipboard/-/expo-clipboard-4.0.1.tgz#74385c2deacbfc75583ebb22e95067bd8f79a037"
+  integrity sha512-ikVitSk8ltbbdmufQE/7+BpkDFU1hsLw5lhjEqknG6PHjtn4TP+ypMxKobBftU2VpFiz9O09bpRt86E8CzsJgQ==
 
 expo-constants@~14.0.0, expo-constants@~14.0.2:
   version "14.0.2"
